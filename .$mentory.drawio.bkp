@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
   <diagram name="페이지-1" id="HF_zN6LBE3DBR8r96IcY">
-    <mxGraphModel dx="2468" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="1710" y="870" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y6rLRf1Ap1vjjYWaJrGi-6" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;get-name: String&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;- id: UUID&lt;/div&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="1000" width="170" height="100" as="geometry" />
+          <mxGeometry x="1710" y="1000" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y6rLRf1Ap1vjjYWaJrGi-8" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&amp;nbsp;&lt;b&gt;question&lt;/b&gt;&lt;div&gt;&amp;nbsp;- id: URL&lt;/div&gt;&lt;div&gt;&amp;nbsp;- client_id: AlanLLM.Token&lt;br&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;- question: AlanLLM.Question&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1710" y="225" width="180" height="115" as="geometry" />
